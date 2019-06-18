@@ -15,7 +15,7 @@
     ],
     "require": {
         "php": ">=5.3.3",
-        "zendframework/zendframework": "2.*",
+        "zendframework/zendframework": "3.*",
         "zf-commons/zfc-user": "3.*"
     },
     "require-dev": {
